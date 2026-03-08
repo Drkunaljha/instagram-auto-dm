@@ -22,13 +22,13 @@ from datetime import datetime
 # ═══════════════════════════════════════════════════
 CONFIG = {
     # Facebook Developer Console se milega
-    "ACCESS_TOKEN": "YOUR_INSTAGRAM_ACCESS_TOKEN",
+    "ACCESS_TOKEN": "IGAANmfnNUxjVBZAFlfUURBZAFJmWUsxTDRJZAk1hYlhWRlFSd3loWkc0ajRGU2ZA0SzZAVbjhyRXdkenc1ZATNITmhhRHZAhRm5IdzJkeWJGdkdpMEF6Q0JZAOV9OOU1mZAVNxdjg3TVZAnemdPUDFSQlZAxcWw5bHoxdk5yVk83Y2VHNXNGQQZDZD",
     
     # Webhook verify karne ke liye — koi bhi secret word rakh sakte ho
-    "VERIFY_TOKEN": "my_secret_token_123",
+    "VERIFY_TOKEN": "IGAANmfnNUxjVBZAFlfUURBZAFJmWUsxTDRJZAk1hYlhWRlFSd3loWkc0ajRGU2ZA0SzZAVbjhyRXdkenc1ZATNITmhhRHZAhRm5IdzJkeWJGdkdpMEF6Q0JZAOV9OOU1mZAVNxdjg3TVZAnemdPUDFSQlZAxcWw5bHoxdk5yVk83Y2VHNXNGQQZDZD",
     
     # Tumhara Instagram Business Account ID
-    "INSTAGRAM_ACCOUNT_ID": "YOUR_INSTAGRAM_ACCOUNT_ID",
+    "INSTAGRAM_ACCOUNT_ID": "17841442329015303",
     
     # ─────────────────────────────────────────
     # 🎯 DM SETTINGS
