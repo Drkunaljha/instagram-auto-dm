@@ -294,4 +294,4 @@ if __name__ == '__main__':
     log_message("🔗 Webhook URL: http://localhost:5000/webhook")
     log_message("=" * 60)
     
-    app.run(host='0.0.0.0', port=5000, debug=True)
+  app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)), debug=False)
