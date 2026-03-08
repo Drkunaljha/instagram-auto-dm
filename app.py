@@ -25,8 +25,7 @@ CONFIG = {
     "ACCESS_TOKEN": "IGAANmfnNUxjVBZAFlfUURBZAFJmWUsxTDRJZAk1hYlhWRlFSd3loWkc0ajRGU2ZA0SzZAVbjhyRXdkenc1ZATNITmhhRHZAhRm5IdzJkeWJGdkdpMEF6Q0JZAOV9OOU1mZAVNxdjg3TVZAnemdPUDFSQlZAxcWw5bHoxdk5yVk83Y2VHNXNGQQZDZD",
     
     # Webhook verify karne ke liye — koi bhi secret word rakh sakte ho
-    "VERIFY_TOKEN": "IGAANmfnNUxjVBZAFlfUURBZAFJmWUsxTDRJZAk1hYlhWRlFSd3loWkc0ajRGU2ZA0SzZAVbjhyRXdkenc1ZATNITmhhRHZAhRm5IdzJkeWJGdkdpMEF6Q0JZAOV9OOU1mZAVNxdjg3TVZAnemdPUDFSQlZAxcWw5bHoxdk5yVk83Y2VHNXNGQQZDZD",
-    
+    "VERIFY_TOKEN": "my_secret_token_123"
     # Tumhara Instagram Business Account ID
     "INSTAGRAM_ACCOUNT_ID": "17841442329015303",
     
